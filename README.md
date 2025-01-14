@@ -1,6 +1,7 @@
 <template>
     <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=mysondrink&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mysondrink&theme=onedark"> 
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mysondrink&theme=buefy&show_icons=true"  alt=""/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysondrink&theme=buefy&layout=compact"  alt=""/>
+        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mysondrink"> 
     </div>
 </template>
